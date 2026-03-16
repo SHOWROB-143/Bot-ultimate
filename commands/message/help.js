@@ -57,10 +57,10 @@ module.exports = {
             }
 
             const embed = new EmbedBuilder()
-                .setTitle('📖 Ultimate Music Bot - Command List')
+                .setTitle('📖 Showrob Music Bot - Command List')
                 .setColor(0x1DB954)
                 .setDescription(description)
-                .setFooter({ text: 'Developed by GlaceYT | https://glaceyt.com' })
+                .setFooter({ text: 'Developed by Showrob Khan | https://www.instagram.com/showrob_7x' })
                 .setTimestamp();
 
             await message.reply({ embeds: [embed] });
