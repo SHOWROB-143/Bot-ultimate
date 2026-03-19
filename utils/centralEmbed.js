@@ -257,7 +257,7 @@ class CentralEmbedHandler {
                 )
                 .setImage('https://i.ibb.co/DDSdKy31/ezgif-8aec7517f2146d.gif')
                 .setFooter({ 
-                    text: 'Ultimate Music Bot • Developed By GlaceYT!',
+                    text: 'Showrob Music Bot • Developed By Showrob Rehman!',
                     iconURL: this.client.user.displayAvatarURL()
                 })
                 .setTimestamp();
